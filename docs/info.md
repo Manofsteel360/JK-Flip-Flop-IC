@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Usage of inputs J, K, Clk, and current outputs Q and not Q work together through series of logic gates to make a JK Flip Flop
 
 ## How to test
 
-Explain how to use your project
+Compare to truth table of JK Flip Flop to see if outputs match
 
 ## External hardware
 
